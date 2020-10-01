@@ -1,0 +1,9 @@
+C:\projectos\temperatura_sensor\temperatura_sensor\bin\Debug\temperatura_sensor.exe.config
+C:\projectos\temperatura_sensor\temperatura_sensor\bin\Debug\temperatura_sensor.exe
+C:\projectos\temperatura_sensor\temperatura_sensor\bin\Debug\temperatura_sensor.pdb
+C:\projectos\temperatura_sensor\temperatura_sensor\obj\Debug\temperatura_sensor.csprojAssemblyReference.cache
+C:\projectos\temperatura_sensor\temperatura_sensor\obj\Debug\temperatura_sensor.exe
+C:\projectos\temperatura_sensor\temperatura_sensor\obj\Debug\temperatura_sensor.pdb
+C:\projectos\temperatura_sensor\temperatura_sensor\bin\Debug\Newtonsoft.Json.dll
+C:\projectos\temperatura_sensor\temperatura_sensor\bin\Debug\Newtonsoft.Json.xml
+C:\projectos\temperatura_sensor\temperatura_sensor\obj\Debug\temperatura_sensor.csproj.CopyComplete

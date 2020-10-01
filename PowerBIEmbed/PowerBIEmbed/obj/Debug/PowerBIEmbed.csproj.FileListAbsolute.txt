@@ -1,0 +1,181 @@
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.dll.config
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.pdb
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.exe
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.exe.config
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.rsp
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.exe
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.exe.config
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.rsp
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.AppContext.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Collections.Immutable.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Console.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Globalization.Calendars.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.Compression.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.FileSystem.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Net.Http.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Net.Sockets.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Reflection.Metadata.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.ValueTuple.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XPath.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.exe
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.exe.config
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.rsp
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\VBCSCompiler.exe
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\roslyn\VBCSCompiler.exe.config
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Antlr3.Runtime.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.PowerBI.Api.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Rest.ClientRuntime.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Web.Infrastructure.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Newtonsoft.Json.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Security.Cryptography.Cng.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Helpers.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Mvc.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Optimization.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Razor.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Deployment.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Razor.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\WebGrease.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Rest.ClientRuntime.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Security.Cryptography.Cng.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Helpers.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Mvc.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Optimization.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Razor.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Deployment.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Razor.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Newtonsoft.Json.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Antlr3.Runtime.pdb
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.csproj.CopyComplete
+C:\projectos\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.pdb
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\Docker.DotNet.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.Buffers.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.ValueTuple.dll
+C:\projectos\PowerBIEmbed\PowerBIEmbed\bin\System.ValueTuple.xml
+C:\projectos\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.csprojAssemblyReference.cache
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.dll.config
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\PowerBIEmbed.pdb
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.exe
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.exe.config
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csc.rsp
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.exe
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.exe.config
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\csi.rsp
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.AppContext.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Collections.Immutable.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Console.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Globalization.Calendars.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.Compression.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.FileSystem.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Net.Http.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Net.Sockets.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Reflection.Metadata.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.ValueTuple.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XPath.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.exe
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.exe.config
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\vbc.rsp
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\VBCSCompiler.exe
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\roslyn\VBCSCompiler.exe.config
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Antlr3.Runtime.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Docker.DotNet.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.PowerBI.Api.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Web.Infrastructure.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Newtonsoft.Json.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Buffers.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Security.Cryptography.Cng.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.ValueTuple.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Helpers.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Mvc.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Optimization.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Razor.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Deployment.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Razor.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\WebGrease.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Security.Cryptography.Cng.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.ValueTuple.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Helpers.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Mvc.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Optimization.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.Razor.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Deployment.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\System.Web.WebPages.Razor.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Newtonsoft.Json.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Antlr3.Runtime.pdb
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.csprojAssemblyReference.cache
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.csproj.CoreCompileInputs.cache
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.csproj.CopyComplete
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.dll
+C:\Pojectos\Meus Projetos\PowerBI\PowerBIEmbed\PowerBIEmbed\obj\Debug\PowerBIEmbed.pdb
